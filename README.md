@@ -1,4 +1,4 @@
-# 💊 *D*rug *A*nnotation for *R*etrieval and *T*ext-mining (DART)
+# 💊 *D*rug *A*nnotation from *R*egulatory *T*exts (DART)
 
 <div align="center">
     <a href="https://huggingface.co/datasets/praiselab-picuslab/DART" target="_blank"><img alt="DART"
@@ -8,7 +8,7 @@
 </div>
 <hr>
 
-**DART** (Drug Annotation for Retrieval and Text-mining) is a structured dataset of Italian drug product leaflets (*"Riassunti delle Caratteristiche del Prodotto"*, or RCPs), curated for Clinical NLP applications. It provides processed regulatory texts segmented into standard sections and enriched with metadata and pharmacological information, ideal for developing and evaluating models in tasks such as:
+**DART** (Drug Annotation from Regulatory Texts) is a structured dataset of Italian drug product leaflets (*"Riassunti delle Caratteristiche del Prodotto"*, or RCPs), curated for Clinical NLP applications. It provides processed regulatory texts segmented into standard sections and enriched with metadata and pharmacological information, ideal for developing and evaluating models in tasks such as:
 
 - Adverse Drug Reaction (ADR) extraction  
 - Drug-Drug Interaction (DDI) classification  
