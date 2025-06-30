@@ -14,9 +14,7 @@
 - Drug-Drug Interaction (DDI) classification  
 - Clinical document retrieval  
 - Regulatory question answering  
-
 ---
-
 ### 🔓 How to Access the Dataset
 
 You can access the **DART** dataset via [Hugging Face](https://huggingface.co/datasets/praiselab-picuslab/DART). Follow these steps to download it:
